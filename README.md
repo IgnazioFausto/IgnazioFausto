@@ -1,6 +1,6 @@
 - 👋 Hola! soy @IgnazioFausto
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... React JS, React Native, Python, Node.js, noSQL, MongoDB..., MERN stack
+- 🌱 I’m currently learning ... React JS, React Native, MERN stack
 - 📫 How to reach me ... nachojam777@gmail.com
 - I'm in Sololearn! https://www.sololearn.com/profile/24508378
 - Also in Linkedin https://www.linkedin.com/in/ignaziofernandez/
